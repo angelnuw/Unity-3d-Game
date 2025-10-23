@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d14eb2c179f486043a48d18a77f5a198
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/SkillToggleSquare.prefab
+  uploadId: 756923

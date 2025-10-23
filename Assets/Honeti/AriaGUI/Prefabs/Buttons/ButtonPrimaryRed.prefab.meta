@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8245e0778957a4a47ac79abd72b912bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/ButtonPrimaryRed.prefab
+  uploadId: 756923

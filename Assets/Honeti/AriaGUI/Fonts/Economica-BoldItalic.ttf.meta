@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 314a7fc2351ccb442a62b40897829fee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Economica
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Fonts/Economica-BoldItalic.ttf
+  uploadId: 756923

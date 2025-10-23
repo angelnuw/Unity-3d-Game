@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc5e482fe5e49a145991b03a9fe0071f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Bars/BarSimple.prefab
+  uploadId: 756923

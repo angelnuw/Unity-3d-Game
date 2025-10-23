@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26ea42831d3d45e78e0ecb1ec39c9b52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/Materials/M_UndeadDraugr_Eyes.mat
+  uploadId: 779404

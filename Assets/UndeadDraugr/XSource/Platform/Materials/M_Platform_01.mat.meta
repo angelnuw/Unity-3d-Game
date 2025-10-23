@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73d6458c3c3c47d8bc01d8d24a35e161
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/XSource/Platform/Materials/M_Platform_01.mat
+  uploadId: 779404

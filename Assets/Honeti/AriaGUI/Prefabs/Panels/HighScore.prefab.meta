@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7f3800f6d976b348a9138f8d0d0f019
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Panels/HighScore.prefab
+  uploadId: 756923

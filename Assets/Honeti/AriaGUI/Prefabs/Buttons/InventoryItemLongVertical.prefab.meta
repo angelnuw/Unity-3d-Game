@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 341a5d36f78c1f5448a9d99c9defb170
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/InventoryItemLongVertical.prefab
+  uploadId: 756923

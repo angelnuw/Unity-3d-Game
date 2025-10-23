@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57ea105520c33ec41a884271238ffbbd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Bars/BarGoldFrameSections.prefab
+  uploadId: 756923

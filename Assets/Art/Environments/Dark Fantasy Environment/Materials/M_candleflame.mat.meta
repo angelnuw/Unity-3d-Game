@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec3a3c99858380c41bb348c9940c46cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313969
+  packageName: Dark Fantasy Environment (Souls-Like)
+  packageVersion: 1.0
+  assetPath: Assets/Art/Environments/Dark Fantasy Environment/Materials/M_candleflame.mat
+  uploadId: 740761

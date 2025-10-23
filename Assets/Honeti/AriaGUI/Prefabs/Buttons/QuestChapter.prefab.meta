@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f21e792743e211e4d9fb0d348aa7280e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/QuestChapter.prefab
+  uploadId: 756923

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78ca22552f24371429a5dce5b1738932
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/ToggleIcon.prefab
+  uploadId: 756923

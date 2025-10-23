@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c999cd1a643f74444ba178486bff480d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/ToggleBig.prefab
+  uploadId: 756923

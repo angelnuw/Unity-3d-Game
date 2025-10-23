@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61e0036e4ef5a42469d443e009d4d960
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/SkillToggleCaro.prefab
+  uploadId: 756923

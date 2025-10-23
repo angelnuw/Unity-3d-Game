@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7af31a2ebf8b97648a9d76f13aa5b573
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Panels/InventorySlot.prefab
+  uploadId: 756923

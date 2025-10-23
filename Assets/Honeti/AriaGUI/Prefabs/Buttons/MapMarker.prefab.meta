@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6fe41761dc6b444f82f8710feee7120
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/MapMarker.prefab
+  uploadId: 756923

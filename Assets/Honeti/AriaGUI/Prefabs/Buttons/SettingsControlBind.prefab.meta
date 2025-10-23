@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa2abc36b64adea4b9fadad9c432f13a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/SettingsControlBind.prefab
+  uploadId: 756923

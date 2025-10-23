@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c507bddbd77d49fabbb1135861d95ab2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/Materials/M_UndeadDraugr_Body.mat
+  uploadId: 779404

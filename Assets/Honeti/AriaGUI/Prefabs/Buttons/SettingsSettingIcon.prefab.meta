@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5d505bda97714c44adb1e94c3a5178e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/SettingsSettingIcon.prefab
+  uploadId: 756923

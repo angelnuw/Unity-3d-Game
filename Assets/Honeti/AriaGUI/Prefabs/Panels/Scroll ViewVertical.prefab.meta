@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2cc1e2e75fde9f4ba01450a566b8aec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Panels/Scroll ViewVertical.prefab
+  uploadId: 756923

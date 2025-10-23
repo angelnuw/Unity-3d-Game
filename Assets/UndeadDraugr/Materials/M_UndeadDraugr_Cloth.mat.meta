@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7d877b7c1524bf7b5187c6a2bf57786
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/Materials/M_UndeadDraugr_Cloth.mat
+  uploadId: 779404

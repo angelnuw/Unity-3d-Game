@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23d780d7b5ac89e4b99089615af2eb39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/XSource/UndeadDraugrSettings.lighting
+  uploadId: 779404

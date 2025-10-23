@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a574101abe61e4498fcfaadd16c2249
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329267
+  packageName: UndeadDraugr
+  packageVersion: 1.0
+  assetPath: Assets/UndeadDraugr/XSource/UndeadDraugr/LightingData.asset
+  uploadId: 779404

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4882628b45ada1d4fa8c2b41d5d53ffe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/SettingsSettingSlider.prefab
+  uploadId: 756923

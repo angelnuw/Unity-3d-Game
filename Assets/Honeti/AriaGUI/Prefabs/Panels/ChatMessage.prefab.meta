@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d033bff33d76d9439a77e96b15b358f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Panels/ChatMessage.prefab
+  uploadId: 756923

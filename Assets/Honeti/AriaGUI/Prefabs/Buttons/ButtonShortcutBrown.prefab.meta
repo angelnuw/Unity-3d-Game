@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e0ddfa43976ddf4f81eefa62d5d0e83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Prefabs/Buttons/ButtonShortcutBrown.prefab
+  uploadId: 756923

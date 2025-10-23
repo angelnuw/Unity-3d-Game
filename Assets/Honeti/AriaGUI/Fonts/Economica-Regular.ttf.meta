@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 5a7a631f430b9e344b9c6430af162799
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Economica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 36daed688c7e9b143a5389f9f93200af, type: 3}
+  - {fileID: 12800000, guid: 314a7fc2351ccb442a62b40897829fee, type: 3}
+  - {fileID: 12800000, guid: 19002000591a2274f9bcf68f6d736379, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320286
+  packageName: Aria GUI / UI - Fantasy Game Menu + sources
+  packageVersion: 1.0.0
+  assetPath: Assets/Honeti/AriaGUI/Fonts/Economica-Regular.ttf
+  uploadId: 756923
